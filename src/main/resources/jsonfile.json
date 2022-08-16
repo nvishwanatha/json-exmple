@@ -1,0 +1,17 @@
+{
+  "fistName": "Vishwanatha",
+  "lastName": "N",
+  "Address": [
+    {
+      "street": "RiverOask parkway",
+      "city": "San Jose",
+      "state": "CA"
+    },
+    {
+      "street": "3Rd main Kalidas",
+      "city": "Harihar",
+      "state": "KA"
+    }
+
+  ]
+}
